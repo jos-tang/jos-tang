@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jos-tang&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jos-tang&repo=Journey-Planner&theme=tokyonight)](https://github.com/jos-tang/Journey-Planner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jos-tang&repo=Road-Accident-Dashboard&theme=tokyonight)](https://github.com/jos-tang/Road-Accident-Dashboard)
 
 
 <!---
