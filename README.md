@@ -1,12 +1,12 @@
 ### 👋 Hi, I’m @jos-tang
 
-🌱 I'm currently studying Computer Science at SIT Glasgow
-📫 How to reach me: josiahtangkaien@gmail.com
-<br>
-📊 GitHub Statistics
+- 🌱 I'm currently studying Computer Science at SIT Glasgow
+- 📫 How to reach me: josiahtangkaien@gmail.com
+
+- 📊 GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jos-tang&show_icons=true&theme=dracula)
-<br>
-📚 School Projects
+
+- 📚 School Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jos-tang&repo=React-Road-Accident-Dashboard&theme=tokyonight)](https://github.com/jos-tang/React-Road-Accident-Dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jos-tang&repo=Journey-Planner&theme=tokyonight)](https://github.com/jos-tang/Journey-Planner)
 <br>
